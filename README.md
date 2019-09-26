@@ -1,12 +1,10 @@
 # Noderedis
 Simple user management app using Node.js and Redis
 
-### Version
-1.0.0
 
-## Usage
+## Usage           
 
-Make sure you have Redis installed and running [Download](https://redis.io/download)
+Make sure you have Redis installed and running [Read About Redis](https://redis.io/)
 
 Install Dependencies
 
@@ -21,4 +19,3 @@ $ npm start
 ```
 
 Visit http://localhost:3000
-
